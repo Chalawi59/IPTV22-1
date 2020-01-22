@@ -1,0 +1,233 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1" name="Al-Arabiya" group="NEWS", Al-Arabiya
+http://beryantv.com:25461/62417681768164/62417681768164/945
+#EXTINF:0 type="stream" channelId="-1" name="Alhadath" group="NEWS", Alhadath
+http://beryantv.com:25461/62417681768164/62417681768164/946
+#EXTINF:-1 tvg-id="Al Sharqiya News" tvg-name="Al Sharqiya News" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qNi4rwG.jpg" tvg-country="IQ" tvg-url="" group-title="NEWS",Al Sharqiya News
+#EXTINF:0 type="stream" channelId="363" name="Aljazeera" group="NEWS", Aljazeera
+http://beryantv.com:25461/62417681768164/62417681768164/940
+#EXTINF:0 type="stream" channelId="-1" name="Aljazeera-Mubasher" group="NEWS", Aljazeera-Mubasher
+http://beryantv.com:25461/62417681768164/62417681768164/941
+#EXTINF:0 type="stream" channelId="-1" name="RT-Arab" group="NEWS", RT-Arab
+http://beryantv.com:25461/62417681768164/62417681768164/942
+#EXTINF:0 type="stream" channelId="-1" name="Sky-News-Arabia" group="NEWS", Sky-News-Arabia
+http://beryantv.com:25461/62417681768164/62417681768164/943
+#EXTINF:0 type="stream" channelId="-1" name="BBC-Arabic" group="NEWS", BBC-Arabic
+http://beryantv.com:25461/62417681768164/62417681768164/944
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="EXtra-News" group="NEWS", EXtra-News
+http://beryantv.com:25461/62417681768164/62417681768164/947
+#EXTINF:0 type="stream" channelId="3096" name="TRT-Arabic" group="NEWS", TRT-Arabic
+http://beryantv.com:25461/62417681768164/62417681768164/948
+#EXTINF:0 type="stream" channelId="-1" name="Mayadeen" group="NEWS", Mayadeen
+http://beryantv.com:25461/62417681768164/62417681768164/950
+#EXTINF:0 type="stream" channelId="139" name="France-24" group="NEWS", France-24
+http://beryantv.com:25461/62417681768164/62417681768164/951
+#EXTINF:0 type="stream" channelId="352" name="DW-TV" group="NEWS", DW-TV
+http://beryantv.com:25461/62417681768164/62417681768164/952
+#EXTINF:0 type="stream" channelId="-1" name="Iraqia-News" group="NEWS", Iraqia-News
+http://beryantv.com:25461/62417681768164/62417681768164/954
+#EXTINF:0 type="stream" channelId="-1" name="IRQ:Iraqia" group="NEWS", Iraqia
+http://beryantv.com:25461/62417681768164/62417681768164/1019
+#EXTINF:0 type="stream" channelId="-1" name="IRQ:SHARQIYA" group="NEWS",SHARQIYA
+http://beryantv.com:25461/62417681768164/62417681768164/1020
+#EXTINF:0 type="stream" channelId="-1" name="IRQ:Dijla-TV" group="NEWS", Dijla-TV
+http://beryantv.com:25461/62417681768164/62417681768164/1023
+#EXTINF:0 type="stream" channelId="-1" name="IRQ:AlRafiden" group="NEWS", AlRafiden
+http://beryantv.com:25461/62417681768164/62417681768164/1028
+#EXTINF:0 type="stream" channelId="-1" name="IRQ:ALGhadeer" group="NEWS", ALGhadeer
+http://beryantv.com:25461/62417681768164/62417681768164/1036
+#EXTINF:0 type="stream" channelId="-1" name="NRT2" group="NEWS", NRT2
+http://beryantv.com:25461/62417681768164/62417681768164/1096
+#EXTINF:0 type="stream" channelId="-1" name="MBC1" group="MBC", MBC1
+http://beryantv.com:25461/62417681768164/62417681768164/927
+#EXTINF:0 type="stream" channelId="-1" name="MBC2" group="MBC", MBC2
+http://beryantv.com:25461/62417681768164/62417681768164/928
+#EXTINF:0 type="stream" channelId="-1" name="MBC-Action" group="MBC", MBC-Action
+http://beryantv.com:25461/62417681768164/62417681768164/935
+#EXTINF:0 type="stream" channelId="-1" name="MBC-Max" group="MBC", MBC-Max
+http://beryantv.com:25461/62417681768164/62417681768164/936
+#EXTINF:0 type="stream" channelId="-1" name="MBC4" group="MBC", MBC4
+http://beryantv.com:25461/62417681768164/62417681768164/929
+#EXTINF:0 type="stream" channelId="-1" name="MBC 5" group="MBC", MBC 5
+http://beryantv.com:25461/62417681768164/62417681768164/1107
+#EXTINF:0 type="stream" channelId="-1" name="MBC-Drama" group="MBC", MBC-Drama
+http://beryantv.com:25461/62417681768164/62417681768164/930
+#EXTINF:0 type="stream" channelId="-1" name="MBC-Drama-Plus" group="MBC", MBC-Drama-Plus
+http://beryantv.com:25461/62417681768164/62417681768164/931
+#EXTINF:0 type="stream" channelId="-1" name="MBC-Masr" group="MBC", MBC-Masr
+http://beryantv.com:25461/62417681768164/62417681768164/932
+#EXTINF:0 type="stream" channelId="-1" name="MBC-Masr2" group="MBC", MBC-Masr2
+http://beryantv.com:25461/62417681768164/62417681768164/933
+#EXTINF:0 type="stream" channelId="-1" name="MBC-Iraq" group="MBC", MBC-Iraq
+http://beryantv.com:25461/62417681768164/62417681768164/934
+#EXTINF:0 type="stream" channelId="-1" name="MBC-Bollywood" group="MBC", MBC-Bollywood
+http://beryantv.com:25461/62417681768164/62417681768164/937
+#EXTINF:0 type="stream" channelId="-1" name="MBC-Varity" group="MBC", MBC-Varity
+http://beryantv.com:25461/62417681768164/62417681768164/938
+#EXTINF:0 type="stream" channelId="-1" name="OSN Movies HD" group="OSN", OSN Movies HD
+http://beryantv.com:25461/62417681768164/62417681768164/884
+#EXTINF:0 type="stream" channelId="-1" name="OSN First Movies HD" group="OSN", OSN First Movies HD
+http://beryantv.com:25461/62417681768164/62417681768164/885
+#EXTINF:0 type="stream" channelId="-1" name="OSN First Movies 2 HD" group="OSN", OSN First Movies 2 HD
+http://beryantv.com:25461/62417681768164/62417681768164/886
+#EXTINF:0 type="stream" channelId="-1" name="OSN Comedy HD" group="OSN", OSN Comedy HD
+http://beryantv.com:25461/62417681768164/62417681768164/887
+#EXTINF:0 type="stream" channelId="-1" name="OSN ALYOUM" group="OSN", OSN ALYOUM
+http://beryantv.com:25461/62417681768164/62417681768164/888
+#EXTINF:0 type="stream" channelId="-1" name="OSN Action HD" group="OSN", OSN Action HD
+http://beryantv.com:25461/62417681768164/62417681768164/889
+#EXTINF:0 type="stream" channelId="-1" name="MY-Film-Box" group="OSN", MY-Film-Box
+http://beryantv.com:25461/62417681768164/62417681768164/891
+#EXTINF:0 type="stream" channelId="2481" name="FOX-Action" group="OSN", FOX-Action
+http://beryantv.com:25461/62417681768164/62417681768164/892
+#EXTINF:0 type="stream" channelId="177" name="FOX" group="OSN", FOX
+http://beryantv.com:25461/62417681768164/62417681768164/894
+#EXTINF:0 type="stream" channelId="-1" name="B4U-Aflam" group="OSN", B4U-Aflam
+http://beryantv.com:25461/62417681768164/62417681768164/900
+#EXTINF:0 type="stream" channelId="-1" name="B4U-Plus" group="OSN", B4U-Plus
+http://beryantv.com:25461/62417681768164/62417681768164/901
+#EXTINF:0 type="stream" channelId="-1" name="ZEE-Aflam" group="OSN", ZEE-Aflam
+http://beryantv.com:25461/62417681768164/62417681768164/902
+#EXTINF:0 type="stream" channelId="-1" name="ZEE-Alwan" group="OSN", ZEE-Alwan
+http://beryantv.com:25461/62417681768164/62417681768164/903
+#EXTINF:0 type="stream" channelId="208" name="Fox-HD" group="OSN", Fox-HD
+http://beryantv.com:25461/62417681768164/62417681768164/904
+#EXTINF:0 type="stream" channelId="-1" name="AD-Nat-Geo" group="OSN", AD-Nat-Geo
+http://beryantv.com:25461/62417681768164/62417681768164/909
+#EXTINF:0 type="stream" channelId="-1" name="Nat-Geo-CZ" group="OSN", Nat-Geo-CZ
+http://beryantv.com:25461/62417681768164/62417681768164/910
+#EXTINF:0 type="stream" channelId="50" name="Animal-Planet" group="OSN", Animal-Planet
+http://beryantv.com:25461/62417681768164/62417681768164/911
+#EXTINF:0 type="stream" channelId="-1" name="Hollywood-M1" group="OSN", Hollywood-M1
+http://beryantv.com:25461/62417681768164/62417681768164/921
+#EXTINF:0 type="stream" channelId="-1" name="Hollywood-M2" group="OSN", Hollywood-M2
+http://beryantv.com:25461/62417681768164/62417681768164/922
+#EXTINF:0 type="stream" channelId="-1" name="Hollywood-M3" group="OSN", Hollywood-M3
+http://beryantv.com:25461/62417681768164/62417681768164/923
+#EXTINF:0 type="stream" channelId="-1" name="Hollywood-M4" group="OSN", Hollywood-M4
+http://beryantv.com:25461/62417681768164/62417681768164/924
+#EXTINF:0 type="stream" channelId="-1" name="Mr Bean Live" group="OSN", Mr Bean Live
+http://beryantv.com:25461/62417681768164/62417681768164/925
+#EXTINF:0 type="stream" channelId="-1" name="NETFLIX BOX OFFICE" group="NETFLIX", NETFLIX BOX OFFICE
+http://beryantv.com:25461/62417681768164/62417681768164/875
+#EXTINF:0 type="stream" channelId="-1" name="NETFLIX ACTION 2" group="NETFLIX", NETFLIX ACTION 2
+http://beryantv.com:25461/62417681768164/62417681768164/877
+#EXTINF:0 type="stream" channelId="-1" name="NETFLIX ACTION 1" group="NETFLIX", NETFLIX ACTION 1
+http://beryantv.com:25461/62417681768164/62417681768164/878
+#EXTINF:0 type="stream" channelId="-1" name="Makkah Live" group="Islam", Makkah Live
+http://beryantv.com:25461/62417681768164/62417681768164/857
+#EXTINF:0 type="stream" channelId="-1" name="Madinah Live" group="Islam", Madinah Live
+http://beryantv.com:25461/62417681768164/62417681768164/858
+#EXTINF:0 type="stream" channelId="-1" name="Ayat" group="Islam", Ayat
+http://beryantv.com:25461/62417681768164/62417681768164/859
+#EXTINF:0 type="stream" channelId="-1" name="RO:Rotana-EGY" group="ROTANA", Rotana-EGY
+http://beryantv.com:25461/62417681768164/62417681768164/990
+#EXTINF:0 type="stream" channelId="-1" name="RO:Rotana-Cinama" group="ROTANA", Rotana-Cinama
+http://beryantv.com:25461/62417681768164/62417681768164/991
+#EXTINF:0 type="stream" channelId="-1" name="RO:Rotana-Music" group="ROTANA", Rotana-Music
+http://beryantv.com:25461/62417681768164/62417681768164/992
+#EXTINF:0 type="stream" channelId="-1" name="RO:RotanaClip" group="ROTANA", RotanaClip
+http://beryantv.com:25461/62417681768164/62417681768164/993
+#EXTINF:0 type="stream" channelId="-1" name="RO:Rotana-Kh" group="ROTANA", Rotana-Kh
+http://beryantv.com:25461/62417681768164/62417681768164/994
+#EXTINF:0 type="stream" channelId="-1" name="RO:Rotana-Classic" group="ROTANA", Rotana-Classic
+http://beryantv.com:25461/62417681768164/62417681768164/995
+#EXTINF:0 type="stream" channelId="-1" name="Bein sports 240p (Live Matches)" group="Bein Sports", Bein sports 240p (Live Matches)
+http://beryantv.com:25461/62417681768164/62417681768164/798
+#EXTINF:0 type="stream" channelId="-1" name="Bein Sports 1 FullHD" group="Bein Sports", Bein Sports 1 FullHD
+http://beryantv.com:25461/62417681768164/62417681768164/794
+#EXTINF:0 type="stream" channelId="-1" name="Bein Sports 1 Full" group="Bein Sports", Bein Sports 1 Full
+http://beryantv.com:25461/62417681768164/62417681768164/795
+#EXTINF:0 type="stream" channelId="-1" name="Bein Sports 1HD" group="Bein Sports", Bein Sports 1HD
+http://beryantv.com:25461/62417681768164/62417681768164/796
+#EXTINF:0 type="stream" channelId="-1" name="BeIN Sports 1SD" group="Bein Sports", BeIN Sports 1SD
+http://beryantv.com:25461/62417681768164/62417681768164/797
+#EXTINF:0 type="stream" channelId="-1" name="Bein Sports 2 FullHD" group="Bein Sports", Bein Sports 2 FullHD
+http://beryantv.com:25461/62417681768164/62417681768164/799
+#EXTINF:0 type="stream" channelId="-1" name="Bein Sports 2 Full" group="Bein Sports", Bein Sports 2 Full
+http://beryantv.com:25461/62417681768164/62417681768164/800
+#EXTINF:0 type="stream" channelId="-1" name="Bein Sports 2HD" group="Bein Sports", Bein Sports 2HD
+http://beryantv.com:25461/62417681768164/62417681768164/801
+#EXTINF:0 type="stream" channelId="-1" name="BeIN Sports 2SD" group="Bein Sports", BeIN Sports 2SD
+http://beryantv.com:25461/62417681768164/62417681768164/802
+#EXTINF:0 type="stream" channelId="-1" name="Bein Sports 3 FullHD" group="Bein Sports", Bein Sports 3 FullHD
+http://beryantv.com:25461/62417681768164/62417681768164/804
+#EXTINF:0 type="stream" channelId="-1" name="Bein Sports 3 Full" group="Bein Sports", Bein Sports 3 Full
+http://beryantv.com:25461/62417681768164/62417681768164/805
+#EXTINF:0 type="stream" channelId="-1" name="Bein Sports 3HD" group="Bein Sports", Bein Sports 3HD
+http://beryantv.com:25461/62417681768164/62417681768164/806
+#EXTINF:0 type="stream" channelId="-1" name="BeIN Sports 3SD" group="Bein Sports", BeIN Sports 3SD
+http://beryantv.com:25461/62417681768164/62417681768164/807
+#EXTINF:0 type="stream" channelId="-1" name="Bein Sports 4 FullHD" group="Bein Sports", Bein Sports 4 FullHD
+http://beryantv.com:25461/62417681768164/62417681768164/809
+#EXTINF:0 type="stream" channelId="-1" name="Bein Sports 4 Full" group="Bein Sports", Bein Sports 4 Full
+http://beryantv.com:25461/62417681768164/62417681768164/810
+#EXTINF:0 type="stream" channelId="-1" name="Bein Sports 4HD" group="Bein Sports", Bein Sports 4HD
+http://beryantv.com:25461/62417681768164/62417681768164/811
+#EXTINF:0 type="stream" channelId="-1" name="BeIN Sports 4SD" group="Bein Sports", BeIN Sports 4SD
+http://beryantv.com:25461/62417681768164/62417681768164/812
+#EXTINF:0 type="stream" channelId="-1" name="Bein Sports 5 FullHD" group="Bein Sports", Bein Sports 5 FullHD
+http://beryantv.com:25461/62417681768164/62417681768164/814
+#EXTINF:0 type="stream" channelId="-1" name="Bein Sports 5 Full" group="Bein Sports", Bein Sports 5 Full
+http://beryantv.com:25461/62417681768164/62417681768164/815
+#EXTINF:0 type="stream" channelId="-1" name="Bein Sports 5HD" group="Bein Sports", Bein Sports 5HD
+http://beryantv.com:25461/62417681768164/62417681768164/816
+#EXTINF:0 type="stream" channelId="-1" name="BeIN Sports 5SD" group="Bein Sports", BeIN Sports 5SD
+http://beryantv.com:25461/62417681768164/62417681768164/817
+#EXTINF:0 type="stream" channelId="-1" name="Bein Sports 6 FullHD" group="Bein Sports", Bein Sports 6 FullHD
+http://beryantv.com:25461/62417681768164/62417681768164/819
+#EXTINF:0 type="stream" channelId="-1" name="Bein Sports 6 Full" group="Bein Sports", Bein Sports 6 Full
+http://beryantv.com:25461/62417681768164/62417681768164/820
+#EXTINF:0 type="stream" channelId="-1" name="Bein Sports 6HD" group="Bein Sports", Bein Sports 6HD
+http://beryantv.com:25461/62417681768164/62417681768164/821
+#EXTINF:0 type="stream" channelId="-1" name="BeIN Sports 6SD" group="Bein Sports", BeIN Sports 6SD
+http://beryantv.com:25461/62417681768164/62417681768164/822
+#EXTINF:0 type="stream" channelId="-1" name="Bein Sports 7HD" group="Bein Sports", Bein Sports 7HD
+http://beryantv.com:25461/62417681768164/62417681768164/824
+#EXTINF:0 type="stream" channelId="-1" name="BeIN Sports 7SD" group="Bein Sports", BeIN Sports 7SD
+http://beryantv.com:25461/62417681768164/62417681768164/825
+#EXTINF:0 type="stream" channelId="-1" name="Bein Sports 8HD" group="Bein Sports", Bein Sports 8HD
+http://beryantv.com:25461/62417681768164/62417681768164/826
+#EXTINF:0 type="stream" channelId="-1" name="BeIN Sports 8SD" group="Bein Sports", BeIN Sports 8SD
+http://beryantv.com:25461/62417681768164/62417681768164/827
+#EXTINF:0 type="stream" channelId="-1" name="Bein Sports 9HD" group="Bein Sports", Bein Sports 9HD
+http://beryantv.com:25461/62417681768164/62417681768164/828
+#EXTINF:0 type="stream" channelId="-1" name="Bein Sports 10" group="Bein Sports", Bein Sports 10
+http://beryantv.com:25461/62417681768164/62417681768164/829
+#EXTINF:0 type="stream" channelId="-1" name="Alkass-1" group="Sports Channel", Alkass-1
+http://beryantv.com:25461/62417681768164/62417681768164/842
+#EXTINF:0 type="stream" channelId="-1" name="Alkass-2" group="Sports Channel", Alkass-2
+http://beryantv.com:25461/62417681768164/62417681768164/843
+#EXTINF:0 type="stream" channelId="-1" name="Iraqia-Sport" group="Sports Channel", Iraqia-Sport
+http://beryantv.com:25461/62417681768164/62417681768164/844
+#EXTINF:0 type="stream" channelId="-1" name="KTV-Sport" group="Sports Channel", KTV-Sport
+http://beryantv.com:25461/62417681768164/62417681768164/845
+#EXTINF:0 type="stream" channelId="-1" name="AD-Sports1" group="Sports Channel", AD-Sports1
+http://beryantv.com:25461/62417681768164/62417681768164/846
+#EXTINF:0 type="stream" channelId="-1" name="AD-Sports2" group="Sports Channel", AD-Sports2
+http://beryantv.com:25461/62417681768164/62417681768164/847
+#EXTINF:0 type="stream" channelId="-1" name="AD-Sports3" group="Sports Channel", AD-Sports3
+http://beryantv.com:25461/62417681768164/62417681768164/848
+#EXTINF:0 type="stream" channelId="-1" name="AD-Sports4" group="Sports Channel", AD-Sports4
+http://beryantv.com:25461/62417681768164/62417681768164/849
+#EXTINF:0 type="stream" channelId="-1" name="Sharjah-Sports" group="Sports Channel", Sharjah-Sports
+http://beryantv.com:25461/62417681768164/62417681768164/850
+#EXTINF:0 type="stream" channelId="-1" name="Dubai-Sport-1" group="Sports Channel", Dubai-Sport-1
+http://beryantv.com:25461/62417681768164/62417681768164/851
+#EXTINF:0 type="stream" channelId="-1" name="Dubai-Sport-2" group="Sports Channel", Dubai-Sport-2
+http://beryantv.com:25461/62417681768164/62417681768164/852
+#EXTINF:0 type="stream" channelId="-1" name="KSA-Sport-1" group="Sports Channel", KSA-Sport-1
+http://beryantv.com:25461/62417681768164/62417681768164/853
+#EXTINF:0 type="stream" channelId="-1" name="KSA-Sport-2" group="Sports Channel", KSA-Sport-2
+http://beryantv.com:25461/62417681768164/62417681768164/854
+#EXTINF:0 type="stream" channelId="-1" name="ON Sport" group="Sports Channel", ON Sport
+http://beryantv.com:25461/62417681768164/62417681768164/855
+
+
+
+
+
+
+
+
